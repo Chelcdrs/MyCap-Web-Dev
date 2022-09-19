@@ -1,0 +1,70 @@
+*{
+	font-family: Montserrat;
+}
+
+h1{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 30px;
+}
+
+hr{
+	border: 2px solid black;
+	width: 50%;
+}
+
+p{
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 25px;
+}
+
+img{
+	border-radius: 50%;
+	width: 35%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+a{
+	margin-left: 7%;
+}
+
+header{
+	background-color: black;
+	padding: 10px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 100px;
+}
+
+li a{
+	color: white;
+	text-decoration: none;
+}
+
+li a:hover{
+	color: dimgray;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+.Special{
+	font-size: 15px;
+}
+
+#unique{
+	font-size: 20px;
+}
