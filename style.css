@@ -2,69 +2,46 @@
 	font-family: Montserrat;
 }
 
-h1{
+#service{
+	margin-top: 30px;
+}
+
+.service_col{
+	padding: 20px;
 	text-align: center;
+}
+
+.service_cont{
+	margin-top: 30px;
+}
+
+.img-container{
+	text-align: center;
+}
+
+button{
+	margin-top: 100px;
+}
+
+li a{
+	text-decoration: none;
+}
+
+footer{
+	padding: 20px;
+	margin-top: 50px;
 	background-color: black;
 	color: white;
-	padding: 30px;
 }
 
-hr{
-	border: 2px solid black;
-	width: 50%;
+.footer-link{
+	color: white;
 }
 
-p{
-	margin-left: 100px;
-	margin-right: 100px;
-	margin-top: 25px;
-}
-
-img{
-	border-radius: 50%;
-	width: 35%;
-	margin-top: 2%;
-	margin-bottom: 2%;
-}
-
-a{
-	margin-left: 7%;
-}
-
-header{
-	background-color: black;
-	padding: 10px;
+.footer-link:hover{
+	display: inline;
 }
 
 ul{
 	list-style: none;
-}
-
-li{
-	display: inline;
-	margin: 100px;
-}
-
-li a{
-	color: white;
-	text-decoration: none;
-}
-
-li a:hover{
-	color: dimgray;
-}
-
-footer{
-	background-color: black;
-	color: white;
-	padding: 5px;
-	text-align: center;
-}
-
-.Special{
-	font-size: 15px;
-}
-
-#unique{
-	font-size: 20px;
 }
